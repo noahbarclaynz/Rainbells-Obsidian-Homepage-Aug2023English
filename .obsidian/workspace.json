@@ -1,0 +1,262 @@
+{
+  "main": {
+    "id": "3bb12d470fcd0291",
+    "type": "split",
+    "children": [
+      {
+        "id": "47c0137c9bf65f68",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "338abe825ac6b218",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/Homepage/00. Homepage.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "64e5df844da43397",
+    "type": "split",
+    "children": [
+      {
+        "id": "404b714244a12346",
+        "type": "tabs",
+        "dimension": 60.57268722466961,
+        "children": [
+          {
+            "id": "7408259d9b92b5f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "42aa1a006d235dd3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b1c945cc25376c6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "98f0d4a0722ccaa3",
+        "type": "tabs",
+        "dimension": 39.4273127753304,
+        "children": [
+          {
+            "id": "53c2b5d46760f3a1",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/Homepage/00. Quick Access.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "a2ea7e19451c5b4f",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "324c0b9d83c44a19",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "40 - Obsidian/Homepage/00. Homepage.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 364.5
+  },
+  "right": {
+    "id": "61191f8ea8fb7606",
+    "type": "split",
+    "children": [
+      {
+        "id": "4294f9e389e0008a",
+        "type": "tabs",
+        "dimension": 27.38619676945668,
+        "children": [
+          {
+            "id": "6ad73b7dcf2a71b6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "40 - Obsidian/Homepage/00. Homepage.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "46b54befe5ed140b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0a0adc886fa0fc53",
+        "type": "tabs",
+        "dimension": 72.61380323054331,
+        "children": [
+          {
+            "id": "c2e4ea5b9d15cade",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/Sidebar/Inbox.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "114b6c0b0aec5b4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 - Obsidian/Sidebar/Music Player.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8c127fead47e7b2d",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 522.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "homepage:Open homepage": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-memos:Memos": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "338abe825ac6b218",
+  "lastOpenFiles": [
+    "20 - Study and Work/Study/English Learning/The Fisherman and His Soul.md",
+    "20 - Study and Work/Work/Vegetarian Restaurant Progress/O0. Vegetarian Restaurant.md",
+    "20 - Study and Work/Study/English Learning/Walden Lake.md",
+    "20 - Study and Work/Study/CIT594/594-W01.md",
+    "20 - Study and Work/Study/English Learning/00. English Learning.md",
+    "20 - Study and Work/Study/CIT594/594-W02.md",
+    "20 - Study and Work/Study/CIT594/00. MCIT594.md",
+    "20 - Study and Work/Study/CIT593/00. MCIT593.md",
+    "20 - Study and Work/Games/Honor of Kings/Yorn.md",
+    "20 - Study and Work/Study/CIT593/593-W02.md",
+    "20 - Study and Work/Study/CIT593/593-W01.md",
+    "20 - Study and Work/Code Repo/Test Code.md",
+    "20 - Study and Work/Code Repo/Life Progress Bar.md",
+    "20 - Study and Work/Code Repo/Dataviewjs Reference.md",
+    "20 - Study and Work/Code Repo/Bird Dataview Retrieval.md",
+    "20 - Study and Work/Code Repo/00. Code Repository.md",
+    "20 - Study and Work/Work/Project One.md",
+    "20 - Study and Work/Work/Vegetarian Restaurant Progress",
+    "20 - Study and Work/Work/Project Two.md",
+    "20 - Study and Work/Study/English Learning",
+    "20 - Study and Work/Study/Thesis One.md",
+    "20 - Study and Work/Work/00. Work.md",
+    "20 - Study and Work/Study/CIT594",
+    "20 - Study and Work/Study/00. Learning.md",
+    "20 - Study and Work/Study/CIT593",
+    "20 - Study and Work/Games/Honor of Kings",
+    "20 - Study and Work/Code Repo",
+    "20 - Study and Work/Work",
+    "20 - Study and Work/Study",
+    "20 - Study and Work/Games",
+    "20 - Study and Work",
+    "50 - Zettelkasten/porpoises.md",
+    "50 - Zettelkasten/meridian.md",
+    "50 - Zettelkasten/Faun.md",
+    "50 - Zettelkasten/Dunciad.md",
+    "50 - Zettelkasten/coral reef.md",
+    "40 - Obsidian/Attachments/banners/rainy-day-bird.gif",
+    "40 - Obsidian/Attachments/banners/book-banner.gif",
+    "40 - Obsidian/Attachments/banners/flowers.gif",
+    "40 - Obsidian/Attachments/banners/daily-note-banner.gif",
+    "40 - Obsidian/Attachments/banners/rainy-day-bird-2.gif",
+    "40 - Obsidian/Attachments/百里守约绝影神枪.png",
+    "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.10.29.png",
+    "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.08.45.png",
+    "40 - Obsidian/Attachments/IMG_5584.jpg",
+    "40 - Obsidian/Attachments/Screen Shot 2022-06-02 at 15.08.21.png"
+  ]
+}
