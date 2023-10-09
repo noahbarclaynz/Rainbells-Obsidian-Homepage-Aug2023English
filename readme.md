@@ -1,6 +1,4 @@
 ---
-
----
 > October 10th 2023
 > 
 > Hello, this is Noah. I've taken the time to translate everything into English, and it has been an insightful journey. Rainbell's work has been impressive, and I gained a lot of knowledge while relinking the JavaScript and dissecting the organizational structure. Please note that everything remains largely original, with exceptions for translations and a few components I deemed excessive to recode and translate without added value. I've also translated all the CSS files and appended comments to some code sections for clarity. Now, let's delve back into the original FAQ. Many thanks to Rainbell!
